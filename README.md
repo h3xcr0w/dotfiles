@@ -3,7 +3,7 @@
 screenshot
 
 
-![screenshot](https://github.com/h3xcr0w/dotfiles/img/screenshot.png)
+![screenshot](https://github.com/h3xcr0w/dotfiles/blob/master/img/lockscreen.png?raw=true)
 
-![lockscreen](https://github.com/h3xcr0w/dotfiles/img/lockscreen.png)
+![lockscreen](https://github.com/h3xcr0w/dotfiles/blob/master/img/lockscreen.pngi?raw=true)
 
