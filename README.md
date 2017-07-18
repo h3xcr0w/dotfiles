@@ -12,7 +12,7 @@ Old Screenshots
 
 New Screenshots
 
-![screenshot](https://github.com/h3xcr0w/dotfiles/blob/master/img/screenshot.png?raw=true)
+![screenshot](https://github.com/h3xcr0w/dotfiles/blob/master/img/screenshot.2.png?raw=true)
 
-![lockscreen](https://github.com/h3xcr0w/dotfiles/blob/master/img/lockscreen.png?raw=true)
+![lockscreen](https://github.com/h3xcr0w/dotfiles/blob/master/img/lockscreen.2.png?raw=true)
 
