@@ -279,7 +279,7 @@ exec_always feh --bg-scale /home/dark/Picture/Wallpapers/wallpaper.jpg
 exec_always compton -f
 
 # Lock screen with i3lock
-set $Locker /home/dark/.lock.sh
+set $Locker /home/dark/.config/lock.sh
 
 # Set windows title borders
 for_window [class="^.*"] border pixel 0
